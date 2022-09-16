@@ -1,0 +1,3 @@
+{
+    "files": ["qml/splashScreen.qml","qml/components/CustomTextField.qml","qml/components/CustomButton.qml","qml/components/CircularProgressBar.qml","main.qml","main.py","qml/main.qml"]
+}
